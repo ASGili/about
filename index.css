@@ -2,6 +2,7 @@ body {
     background-color: #EEE2DE;
     font-size: x-large;
     margin: 0;
+  
 }
 
 header {
@@ -12,7 +13,7 @@ header {
     margin: 0;
     text-decoration: underline;
     border: double 0.75em black;
-    padding-right: 0.75em;
+    padding-right: 0.75em;    
 
 }
 
