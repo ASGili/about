@@ -1,0 +1,41 @@
+body {
+    background-color: #EEE2DE;
+    font-size: x-large;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    text-decoration: underline;
+    border: double 0.75em black;
+    padding-right: 0.75em;
+
+}
+
+.pageTop{
+    padding: 0.25em;
+    list-style: none;
+}
+
+section{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+footer{
+    padding-bottom: 0.5em;
+    padding-left: 0.5em;
+    font-size:large;
+}
+
+.subtitle{
+    font-style: italic;
+}
+
+.appContent{
+    font-size: large;
+}
