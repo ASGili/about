@@ -34,7 +34,7 @@ section{
 footer{
     min-height: 18vh;
     max-height: 25vh;
-    width: 100vw;
+    width: auto;
     text-align:left;
     background-color: bisque;
     border-top: black dashed 3px;
